@@ -30,3 +30,6 @@ Our specific usage, as well as the background behind this, may be found on our S
 ![Pore Image](https://2020.igem.org/wiki/images/1/13/T--KCL_UK--porething.png)
 
 <i>Fig. 2: Here you can see the algorithm applied to an arbitrary sphere alongside our final scaffold design</i>
+
+# iGAM Software 
+Through our collaboration with The University of Calgary 2020 iGEM Team, we have developed the MFP iGAM script to predict genetic algorithms for our particular mussel foot protein, Pvfp-5β. More information regarding iGAM can be found ([here]((https://2020.igem.org/Team:Calgary/iGAM)).
