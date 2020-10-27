@@ -1,3 +1,5 @@
+###This script was written by Andrew Symes of iGEM Calgary. It is a contribution to the overall iGAM technology. 
+
 ######Genetic Algorithm for selection#########
 set.seed(16)
 # Resource http://www.omgwiki.org/hpec/files/hpec-challenge/ga.html good theory
